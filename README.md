@@ -8,7 +8,7 @@ This framework takes two integers as input and returns addtion of inputs.
 Import SDK for `Objective-C`
 
 ```objective-c
-#import <CoherentSDK/CoherentSDK.h>
+#import <SPMDemo/SPMDemo.h>
 
 ```
 
